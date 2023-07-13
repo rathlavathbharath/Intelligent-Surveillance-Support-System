@@ -20,7 +20,5 @@ tkinter
 
 installed to run these scripts properly
 
-video : https://youtu.be/L1ZQzdT4mEA
-
 thanks ;) 
 
