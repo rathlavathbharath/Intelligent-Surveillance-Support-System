@@ -6,7 +6,6 @@ the usage of machine perception.
 How It Works:-
 
 1.You just need to run main.py file in order to run full app.
-
 2. Real-Time Video Input:
 The system utilizes the camera of your laptop and converting to smart camera. It captures a continuous stream of video frames in real-time.
 3. Graphical User Interface (GUI):
